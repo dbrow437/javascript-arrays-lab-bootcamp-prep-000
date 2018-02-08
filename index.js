@@ -30,7 +30,7 @@ function prependKitten(name){
   return newKittens
 }
 
-function removeLastKitten(){
+function removeLastKitten(name){
   var newKittens = [kittens.pop("Garfield")]
   return newKittens
 }
