@@ -22,5 +22,5 @@ var kittens = ["Milo", "Otis", "Garfield"]
 
 function appendKitten(name){
   var newKittens = [..."Broom"]
-  return
+  return newKittens
 }
