@@ -31,6 +31,6 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
-  var newKittens = [kittens.slice(3)]
+  var newKittens = [kittens.pop("Garfield")]
   return newKittens
 }
