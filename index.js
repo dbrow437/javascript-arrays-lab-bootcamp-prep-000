@@ -17,3 +17,4 @@ function destructivelyRemoveLastKitten(){
 function destructivelyRemoveFirstKitten(){
   kittens.shift("Milo")
 }
+
